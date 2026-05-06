@@ -1,0 +1,16 @@
+error_type,true_label,pred_label,text_preview
+FP (predicted pos),negative,positive,"If it weren't for the book being required for a class, I wouldn't have wasted the time or effort.  Written from the point ov view of an idealistic liberal minded wishful thinker not based in reality o..."
+FN (predicted neg),positive,negative,"""Food, Family, and Tradition"" is part memoir, part cookbook, all love. It traces Lynn Kirsche Shapiro's family roots in Czechoslovakia and Hungary and the tragedy of the Holocaust, as well as family d..."
+FN (predicted neg),positive,negative,"I ordered this book many years ago and reviewed it then. However, Vine tells me that I did not review it.  I am sure it was a perfectly acceptable YA book for teen girls, but to be honest, I cannot re..."
+FN (predicted neg),positive,negative,Going to Rome later this month and needed a guide book for my visit. I had signed up for several tours which were meeting at obscure tourist points. I had googled the internet to try to find where the...
+FN (predicted neg),positive,negative,"""The Innocent,"" with its super-heroine Vanessa Michael Moore, is hard to put down.  Vanessa, or Michael/Miki as she prefers, is the protector we all wish for, a Superwoman of sorts who fights for the ..."
+FP (predicted pos),negative,positive,"My wife tried a few of these recipes and we found more bad than in most books we have tried.  So, pick from these carefully...."
+FP (predicted pos),negative,positive,"I should have loved this story. It had everything that should have made this a riveting read. There was a mystery, interesting characters and a twist. I shouldn’t have been able to put this book down,..."
+FP (predicted pos),negative,positive,I have read and loved every Patricia Cornwell Scarpetta novel.  Flesh and Blood is fascinating for the first 85% of the book.  I read through her details of bullets and fragments because I know how we...
+FN (predicted neg),positive,negative,Pictures were good but patterns a little too repetitive...
+FN (predicted neg),positive,negative,"Agnes Desarthe's Chez Moi is a classic novel in the style of [[ASIN:038542017X Like Water for Chocolate: A Novel in Monthly Installments with Recipes, Romances, and Home Remedies]] and [[ASIN:01410001..."
+FP (predicted pos),negative,positive,"I love retellings of fairytales.  Beastly by Alex Flinn (a retelling of Beauty and the Beast), Spindle's End by Robin McKinley (Sleeping Beauty), Ice by Sarah Beth Durst (East of the Sun, West of the ..."
+FN (predicted neg),positive,negative,I felt all at once exposed and exonerated...
+FN (predicted neg),positive,negative,"In Alex Flinn's ""Beastly,"" we're treated to a modern-day update of the classic tale of Beauty and the Beast. Here, the spoiled prince is Kyle Kinsgbury, son of a famous newscaster in New York. Kyle is..."
+FP (predicted pos),negative,positive,"Such a departure from her Rylee Adamson and Elemental style.  I could barely get through this book.  More along the lines of her Celtic Legacy books, which I could also not get through... Glad I read ..."
+FP (predicted pos),negative,positive,Super dated photos!!...
